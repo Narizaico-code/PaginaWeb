@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Perito en Informática - Kinal</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(to right, #f0f0f0, #ffffff);
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+    header {
+      background-color: #003366;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    section {
+      max-width: 1000px;
+      margin: auto;
+      padding: 20px;
+    }
+    h2 {
+      color: #003366;
+    }
+    .card {
+      background-color: #fff;
+      border-radius: 10px;
+      padding: 20px;
+      margin: 20px 0;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background-color: #003366;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Perito en Informática - Centro Educativo Técnico Kinal</h1>
+  </header>
+ 
+  <section>
+    <div class="card">
+      <h2>🎓 Información General</h2>
+      <p>La carrera de Perito Técnico en Informática se imparte en 3 años con un enfoque técnico-práctico. Está avalada por el Ministerio de Educación y la Universidad del Istmo. Se ofrece en jornada matutina (7:00–13:00) y vespertina (12:40–17:40).</p>
+      <p>Cuenta con más de 900 horas presenciales combinando teoría y práctica.</p>
+    </div>
+ 
+    <div class="card">
+      <h2>📚 Contenido Académico</h2>
+      <ul>
+        <li>Evolución de las TIC</li>
+        <li>Componentes de hardware</li>
+        <li>Sistemas operativos (DOS, Windows, Linux)</li>
+        <li>Redes y comunicaciones</li>
+        <li>Almacenamiento y cableado estructurado</li>
+      </ul>
+    </div>
+ 
+    <div class="card">
+      <h2>🏆 Certificaciones y Alianzas</h2>
+      <p>Kinal cuenta con alianzas con Cisco, Microsoft, Autodesk, y más. Sus estudiantes tienen acceso a certificaciones como CCNA/CCNP. Además, el título permite el ingreso a la universidad.</p>
+    </div>
+ 
+    <div class="card">
+      <h2>💬 Opiniones Reales</h2>
+      <blockquote>
+        "Kinal me enseñó patrones de diseño y otras cosas que como autodidacta nunca hubiera aprendido bien. Lo recomiendo sí o sí."
+      </blockquote>
+      <blockquote>
+        "Ya tengo más de un año de experiencia laboral gracias a lo que aprendí en Kinal. Te preparan para el trabajo y la vida."
+      </blockquote>
+      <blockquote>
+        "Muchas puertas se me han abierto por estudiar aquí. De lo mejor en formación técnica del país."
+      </blockquote>
+    </div>
+ 
+    <div class="card">
+      <h2>✅ Ventajas</h2>
+      <ul>
+        <li>Formación técnica sólida y aplicada</li>
+        <li>Título reconocido y acceso a la universidad</li>
+        <li>Reputación excelente en el mercado laboral</li>
+        <li>Enfoque en valores y disciplina profesional</li>
+      </ul>
+ 
+      <h3>📌 Consideraciones</h3>
+      <ul>
+        <li>Requiere esfuerzo personal para destacar</li>
+        <li>El inglés debe reforzarse por cuenta propia</li>
+        <li>Es recomendable complementar con aprendizaje autodidacta</li>
+      </ul>
+    </div>
+  </section>
+ 
+  <footer>
+    <p>© 2025 Kinal - Carrera de Perito en Informática | Página creada con fines informativos.</p>
+  </footer>
+</body>
+</html>
